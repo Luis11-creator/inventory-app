@@ -42,4 +42,3 @@
 <div id="appDiv" style="display:none;">
     <h2>Inventory App</h2>
     <div id="folde
-
